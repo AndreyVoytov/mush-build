@@ -98,12 +98,12 @@
 /******/ 	__webpack_require__.oe = function(err) { console.error(err); throw err; };
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 156);
+/******/ 	return __webpack_require__(__webpack_require__.s = 158);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ 156:
+/***/ 158:
 /*!**************************************************************************!*\
   !*** multi pixi p2 phaser phaserNineslice phaserScrolling gameAnalytics ***!
   \**************************************************************************/
@@ -111,17 +111,17 @@
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! pixi */157);
-__webpack_require__(/*! p2 */159);
-__webpack_require__(/*! phaser */161);
-__webpack_require__(/*! phaserNineslice */163);
-__webpack_require__(/*! phaserScrolling */165);
+__webpack_require__(/*! pixi */159);
+__webpack_require__(/*! p2 */161);
+__webpack_require__(/*! phaser */163);
+__webpack_require__(/*! phaserNineslice */165);
+__webpack_require__(/*! phaserScrolling */167);
 module.exports = __webpack_require__(/*! gameAnalytics */60);
 
 
 /***/ }),
 
-/***/ 157:
+/***/ 159:
 /*!*************************************************************!*\
   !*** ./node_modules/phaser-ce/build/custom/pixi.js-exposed ***!
   \*************************************************************/
@@ -129,12 +129,12 @@ module.exports = __webpack_require__(/*! gameAnalytics */60);
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["PIXI"] = __webpack_require__(/*! -!./pixi.js */ 158);
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../../webpack/buildin/global.js */ 29)))
+/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["PIXI"] = __webpack_require__(/*! -!./pixi.js */ 160);
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../../webpack/buildin/global.js */ 28)))
 
 /***/ }),
 
-/***/ 158:
+/***/ 160:
 /*!*****************************************************!*\
   !*** ./node_modules/phaser-ce/build/custom/pixi.js ***!
   \*****************************************************/
@@ -7944,7 +7944,7 @@ PIXI.TextureUvs = function ()
 
 /***/ }),
 
-/***/ 159:
+/***/ 161:
 /*!***********************************************************!*\
   !*** ./node_modules/phaser-ce/build/custom/p2.js-exposed ***!
   \***********************************************************/
@@ -7952,12 +7952,12 @@ PIXI.TextureUvs = function ()
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["p2"] = __webpack_require__(/*! -!./p2.js */ 160);
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../../webpack/buildin/global.js */ 29)))
+/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["p2"] = __webpack_require__(/*! -!./p2.js */ 162);
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../../webpack/buildin/global.js */ 28)))
 
 /***/ }),
 
-/***/ 160:
+/***/ 162:
 /*!***************************************************!*\
   !*** ./node_modules/phaser-ce/build/custom/p2.js ***!
   \***************************************************/
@@ -22796,7 +22796,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. */
 
 /***/ }),
 
-/***/ 161:
+/***/ 163:
 /*!*********************************************************************!*\
   !*** ./node_modules/phaser-ce/build/custom/phaser-split.js-exposed ***!
   \*********************************************************************/
@@ -22804,12 +22804,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. */
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["Phaser"] = __webpack_require__(/*! -!./phaser-split.js */ 162);
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../../webpack/buildin/global.js */ 29)))
+/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["Phaser"] = __webpack_require__(/*! -!./phaser-split.js */ 164);
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../../webpack/buildin/global.js */ 28)))
 
 /***/ }),
 
-/***/ 162:
+/***/ 164:
 /*!*************************************************************!*\
   !*** ./node_modules/phaser-ce/build/custom/phaser-split.js ***!
   \*************************************************************/
@@ -113445,7 +113445,7 @@ PIXI.canUseNewCanvasBlendModes = function ()
 
 /***/ }),
 
-/***/ 163:
+/***/ 165:
 /*!*************************************************************************!*\
   !*** ./node_modules/phaser-nineslice/build/phaser-nineslice.js-exposed ***!
   \*************************************************************************/
@@ -113453,12 +113453,12 @@ PIXI.canUseNewCanvasBlendModes = function ()
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["phaserNineslice"] = __webpack_require__(/*! -!./phaser-nineslice.js */ 164);
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../webpack/buildin/global.js */ 29)))
+/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["phaserNineslice"] = __webpack_require__(/*! -!./phaser-nineslice.js */ 166);
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../webpack/buildin/global.js */ 28)))
 
 /***/ }),
 
-/***/ 164:
+/***/ 166:
 /*!*****************************************************************!*\
   !*** ./node_modules/phaser-nineslice/build/phaser-nineslice.js ***!
   \*****************************************************************/
@@ -113646,7 +113646,7 @@ var Fabrique;
 
 /***/ }),
 
-/***/ 165:
+/***/ 167:
 /*!******************************************************************************************************!*\
   !*** ./node_modules/phaser-kinetic-scrolling-plugin/dist/phaser-kinetic-scrolling-plugin.js-exposed ***!
   \******************************************************************************************************/
@@ -113654,12 +113654,12 @@ var Fabrique;
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["phaserScrolling"] = __webpack_require__(/*! -!./phaser-kinetic-scrolling-plugin.js */ 166);
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../webpack/buildin/global.js */ 29)))
+/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["phaserScrolling"] = __webpack_require__(/*! -!./phaser-kinetic-scrolling-plugin.js */ 168);
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../webpack/buildin/global.js */ 28)))
 
 /***/ }),
 
-/***/ 166:
+/***/ 168:
 /*!**********************************************************************************************!*\
   !*** ./node_modules/phaser-kinetic-scrolling-plugin/dist/phaser-kinetic-scrolling-plugin.js ***!
   \**********************************************************************************************/
@@ -114156,7 +114156,7 @@ var Fabrique;
 
 /***/ }),
 
-/***/ 29:
+/***/ 28:
 /*!***********************************!*\
   !*** (webpack)/buildin/global.js ***!
   \***********************************/
@@ -114197,8 +114197,8 @@ module.exports = g;
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["gameAnalytics"] = __webpack_require__(/*! -!./GameAnalytics.node.js */ 90);
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../webpack/buildin/global.js */ 29)))
+/* WEBPACK VAR INJECTION */(function(global) {module.exports = global["gameAnalytics"] = __webpack_require__(/*! -!./GameAnalytics.node.js */ 89);
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../../webpack/buildin/global.js */ 28)))
 
 /***/ }),
 
@@ -114398,7 +114398,7 @@ process.umask = function() { return 0; };
 
 /***/ }),
 
-/***/ 90:
+/***/ 89:
 /*!***************************************************************!*\
   !*** ./node_modules/gameanalytics/dist/GameAnalytics.node.js ***!
   \***************************************************************/
